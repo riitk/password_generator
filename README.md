@@ -1,5 +1,5 @@
 # password_generator
-A Python App to save Password Information with Email and Site Name and also to Generate Password using TKinter using JSON datatype.
+A Python App to save Password Information with Email and Site Name and also to Generate Password using TKinter using JSON File.
 
 The added Information are saved in data.json file.
 Generate button generates a password of random length of random letters, numbers and symbols.
